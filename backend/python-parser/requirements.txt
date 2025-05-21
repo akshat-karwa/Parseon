@@ -1,0 +1,18 @@
+# FastAPI + server
+fastapi
+uvicorn
+# LangChain core + community models
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai  # If using OpenAI (optional)
+sentence-transformers # Embeddings + LLMs
+transformers
+faiss-cpu # Vector DB
+PyPDF2 # PDF parsing
+python-dotenv # Environment variables
+python-multipart # Multipart/form-data handling
+numpy<2.0 # Avoid NumPy crash with SciPy
+scipy
+scikit-learn
+tf-keras
